@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="medavie_fan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/medavie_fan_jar</output-path>
+    <root id="archive" name="medavie_fan.jar">
+      <element id="module-output" name="medavie_fan" />
+    </root>
+  </artifact>
+</component>
